@@ -2,7 +2,7 @@
 title: "Mathematical analysis"
 collection: teaching
 venue: "Ecole Polytechnique"
-date: 2021.09-2022.01
+date: "2021.09-2022.01"
 location: "Palaiseau, France"
 ---
 
