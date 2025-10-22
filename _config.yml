@@ -23,7 +23,7 @@ repository               : "chengongmath/chengongmath.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chengong.png"
   name             : "GONG Chen (龚宸)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in math"
