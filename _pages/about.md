@@ -15,4 +15,10 @@ My CV is available [here](../assets/Curriculum_Vitae.pdf).
 
 Contact
 ======
-XXXXX
+Institute for Theoretical Sciences
+
+Westlake University
+
+310030 Hangzhou China
+
+Email : gongchen[at]westlake[dot]edu[dot]cn
