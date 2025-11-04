@@ -11,7 +11,7 @@ I am currently a postdoc at Institute for Theoretical Sciences of Westlake Unive
 
 I am interested in complex and non-Archimedean dynamics. 
 
-My CV is available [here](../assets/Curriculum_Vitae.pdf).
+My CV is available [here](../assets/Short_CV (1).pdf).
 
 Contact
 ======
